@@ -17,4 +17,4 @@ Notes and Credits:
 
 This is a demo. I will expand the features in a future update. Stay tuned.
 
-    -Made for purposes of CS50 course by Maitiú (#PineappleBirch)
+   -Made for purposes of CS50 course by Maitiú (#PineappleBirch)
