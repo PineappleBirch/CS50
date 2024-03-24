@@ -5,7 +5,7 @@ Instructions:
 Keyboard required!
 
 Keys:
-<br />
+<br /><br />
 Press 1 - A key <br />
 Press 2 - B key <br />
 Press 3 - C key <br />
