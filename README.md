@@ -5,13 +5,13 @@ Instructions:
 Keyboard required!
 
 Keys:
-
-Press 1 - A key
-Press 2 - B key
-Press 3 - C key
-Press 4 - D key
-Press 5 - E key
-Press 6 - F key
+\n
+Press 1 - A key \n
+Press 2 - B key \n
+Press 3 - C key \n
+Press 4 - D key \n
+Press 5 - E key \n
+Press 6 - F key \n
 
 Notes and Credits:
 
